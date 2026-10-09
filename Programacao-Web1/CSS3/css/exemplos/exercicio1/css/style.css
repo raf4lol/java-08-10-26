@@ -1,0 +1,42 @@
+* {
+    background-color: #ADD8E6;
+    margin: 1%;
+    padding: 0;
+}
+
+#titulo {
+    color: rgb(139, 139, 214);
+    text-align: center;
+    font-size: 70px;
+}
+
+.primeiro-p {
+    font-size: 30px;
+}
+
+#titulo-2 {
+    font-size: 50px;
+    color: rgb(55, 55, 255);
+}
+
+.ultimo-p {
+    font-size: 30px;
+}
+
+#titulo-3 {
+    font-size: 50px;
+    color: #E34C26;
+}
+
+.terceiro-p {
+    font-size: 30px;
+}
+
+#titulo-4 {
+    color: #E34C26;
+    font-size: 50px;
+}
+
+li {
+    font-size: 30px;
+}

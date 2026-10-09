@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bloco{
+    border: 2px solid;
+}
+
+header{
+    width: 50%;
+    height: 50px;
+}
+
+a{
+    border: red 2px solid;
+    display: inline-block;
+    height: 30px;
+    width: 45px;
+}

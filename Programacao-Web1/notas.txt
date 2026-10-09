@@ -1,0 +1,5 @@
+As tags em linha são limitadas. elas não tema tag height  e width
+
+Quando vc fala de "em" e relacionada ao pai
+
+Overflow é roda vez que o conteúdo vaza da caixa

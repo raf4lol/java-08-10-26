@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.container{
+    border: 8px solid;
+    height: 500px;
+    width: 600px;
+    margin-left: 10px;
+}
+
+h1{
+    border: 4px dashed blue;
+    display: inline-block;
+    padding: 10px;
+}
+
+.b{
+    padding: 10px;
+    background-color: blueviolet;
+    cursor: pointer;
+    border: 20px;
+    border-radius: 15px;
+}
